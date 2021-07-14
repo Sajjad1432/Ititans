@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ititans/static/css/main.8ef1a12a.chunk.css",
+    "main.js": "/ititans/static/js/main.a627a264.chunk.js",
+    "main.js.map": "/ititans/static/js/main.a627a264.chunk.js.map",
+    "runtime-main.js": "/ititans/static/js/runtime-main.3e6d26e4.js",
+    "runtime-main.js.map": "/ititans/static/js/runtime-main.3e6d26e4.js.map",
+    "static/css/2.8a9cc8cd.chunk.css": "/ititans/static/css/2.8a9cc8cd.chunk.css",
+    "static/js/2.da5fa6fc.chunk.js": "/ititans/static/js/2.da5fa6fc.chunk.js",
+    "static/js/2.da5fa6fc.chunk.js.map": "/ititans/static/js/2.da5fa6fc.chunk.js.map",
+    "static/js/3.c6d6969c.chunk.js": "/ititans/static/js/3.c6d6969c.chunk.js",
+    "static/js/3.c6d6969c.chunk.js.map": "/ititans/static/js/3.c6d6969c.chunk.js.map",
+    "index.html": "/ititans/index.html",
+    "static/css/2.8a9cc8cd.chunk.css.map": "/ititans/static/css/2.8a9cc8cd.chunk.css.map",
+    "static/css/main.8ef1a12a.chunk.css.map": "/ititans/static/css/main.8ef1a12a.chunk.css.map",
+    "static/js/2.da5fa6fc.chunk.js.LICENSE.txt": "/ititans/static/js/2.da5fa6fc.chunk.js.LICENSE.txt",
+    "static/media/advanced-option.84c7d069.jpg": "/ititans/static/media/advanced-option.84c7d069.jpg",
+    "static/media/App.css": "/ititans/static/media/bg-works.abd66d06.jpg",
+    "static/media/clean-design.728069da.jpg": "/ititans/static/media/clean-design.728069da.jpg",
+    "static/media/easy-customise.d4fe2213.jpg": "/ititans/static/media/easy-customise.d4fe2213.jpg",
+    "static/media/great-support.13341f4e.jpg": "/ititans/static/media/great-support.13341f4e.jpg",
+    "static/media/unlimited-features.a0b8acf7.jpg": "/ititans/static/media/unlimited-features.a0b8acf7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e6d26e4.js",
+    "static/css/2.8a9cc8cd.chunk.css",
+    "static/js/2.da5fa6fc.chunk.js",
+    "static/css/main.8ef1a12a.chunk.css",
+    "static/js/main.a627a264.chunk.js"
+  ]
+}
